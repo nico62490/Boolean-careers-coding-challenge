@@ -1,0 +1,82 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 900px;
+    background-position: center;
+    background-attachment: fixed;
+    margin: auto;
+}
+
+.container {
+    background-color: rgba(36, 34, 34, 0.671) ;
+    border-radius: 15px;
+    padding: 100px;  
+    width: 1000px;
+    background-position: center; 
+    margin: auto;
+    margin-top: 40px;
+    transform-origin: top;
+    transform: scale(0.7); 
+    transform-origin: 1 0; 
+     
+    
+}
+
+.logo {
+    text-align: center;
+}
+    
+.banner {
+    text-align: center;
+    color: limegreen;   
+}
+
+.button {
+    background-color: lime;
+    width: 1000px;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+}
+
+.users {
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    
+}
+
+.bar1 {
+    border-radius: 6px;
+    background-color: orange;
+    width: 350px;
+    height: 30px;
+}
+
+.bar2 {
+    border-radius: 6px;
+    background-color: rgb(62, 206, 43);
+    width: 600px;
+    height: 30px;
+}
+
+.bar3 {
+    border-radius: 6px;
+    background-color: rgb(221, 90, 90);
+    width: 130px;
+    height: 30px;
+}
+
+.via {
+    color: white;
+    font-weight: normal;
+}
+
+.stato {
+    color: white;
+    font-weight: 100;
+}
